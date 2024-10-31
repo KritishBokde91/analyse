@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051391347059",
+    "project_id": "analyze-e1db1",
+    "storage_bucket": "analyze-e1db1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051391347059:android:cebfdb804e2db9f0b09d06",
+        "android_client_info": {
+          "package_name": "com.example.analyse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBojHGJD-_38TDnvVssfwokg-6Zmor9f_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
